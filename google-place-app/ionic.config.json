@@ -1,0 +1,7 @@
+{
+  "name": "google-place-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
